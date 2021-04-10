@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: 80px;
+    text-align: center;
+    }
+
+    footer p{
+        padding-top: 3%;
+    }
