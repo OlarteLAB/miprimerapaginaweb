@@ -6,10 +6,26 @@
 footer {
     background-color: black;
     color: white;
-    text-align: 80px;
+    height: 80px;
     text-align: center;
     }
 
     footer p{
         padding-top: 3%;
+    }
+
+    .container {
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 2%;
+    }
+
+    .section-flex {
+        display: flex;
+        flex-wrap: wrap;        
+    }
+
+    h1, h2 {
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
     }
