@@ -33,7 +33,7 @@ footer {
     .character {
         width: 25%;
         margin: 3%;
-        border: 3px solid red;
+        border: 2px solid red;
         text-align: center;
         border-radius: 5px;
     }
@@ -46,4 +46,9 @@ footer {
     .info-character {
         text-align: justify;
         padding: 3%;
+    }
+
+    .formu form{
+        text-align: center;
+        padding-bottom: 5px;
     }
